@@ -212,7 +212,7 @@
         }
       }
     },
-    "Full": {
+    "full": {
       "$type": "number",
       "$value": 9999,
       "$description": "",
