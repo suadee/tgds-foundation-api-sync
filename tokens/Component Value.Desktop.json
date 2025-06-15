@@ -2427,6 +2427,20 @@
           }
         }
       }
+    },
+    "Border Width": {
+      "$type": "number",
+      "$value": "{Spacing.Border Width.s}",
+      "$description": "",
+      "$extensions": {
+        "com.figma": {
+          "hiddenFromPublishing": false,
+          "scopes": [
+            "STROKE_FLOAT"
+          ],
+          "codeSyntax": {}
+        }
+      }
     }
   },
   "Selection": {
@@ -2461,22 +2475,6 @@
           }
         }
       },
-      "Boxed": {
-        "Padding Left": {
-          "$type": "number",
-          "$value": "{Spacing.Padding.s}",
-          "$description": "",
-          "$extensions": {
-            "com.figma": {
-              "hiddenFromPublishing": false,
-              "scopes": [
-                "GAP"
-              ],
-              "codeSyntax": {}
-            }
-          }
-        }
-      },
       "Rounded": {
         "Padding Left": {
           "$type": "number",
@@ -2491,6 +2489,34 @@
               "codeSyntax": {}
             }
           }
+        }
+      }
+    },
+    "Border Width": {
+      "$type": "number",
+      "$value": "{Spacing.Border Width.s}",
+      "$description": "",
+      "$extensions": {
+        "com.figma": {
+          "hiddenFromPublishing": false,
+          "scopes": [
+            "STROKE_FLOAT"
+          ],
+          "codeSyntax": {}
+        }
+      }
+    },
+    "Padding Left": {
+      "$type": "number",
+      "$value": "{Spacing.Padding.s}",
+      "$description": "",
+      "$extensions": {
+        "com.figma": {
+          "hiddenFromPublishing": false,
+          "scopes": [
+            "GAP"
+          ],
+          "codeSyntax": {}
         }
       }
     }
