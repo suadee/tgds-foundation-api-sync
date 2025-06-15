@@ -1180,51 +1180,21 @@
     }
   },
   "Spacing": {
-    "Border Width": {
-      "s": {
-        "$type": "number",
-        "$value": "{Numeric.Decoration.25}",
-        "$description": "",
-        "$extensions": {
-          "com.figma": {
-            "hiddenFromPublishing": false,
-            "scopes": [
-              "ALL_SCOPES"
-            ],
-            "codeSyntax": {}
-          }
-        }
-      },
-      "m": {
-        "$type": "number",
-        "$value": "{Numeric.Decoration.50}",
-        "$description": "",
-        "$extensions": {
-          "com.figma": {
-            "hiddenFromPublishing": false,
-            "scopes": [
-              "ALL_SCOPES"
-            ],
-            "codeSyntax": {}
-          }
-        }
-      },
-      "l": {
-        "$type": "number",
-        "$value": "{Numeric.Decoration.100}",
-        "$description": "",
-        "$extensions": {
-          "com.figma": {
-            "hiddenFromPublishing": false,
-            "scopes": [
-              "ALL_SCOPES"
-            ],
-            "codeSyntax": {}
-          }
-        }
-      }
-    },
     "Gap": {
+      "xxxs": {
+        "$type": "number",
+        "$value": "{Numeric.Spacing.050}",
+        "$description": "",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
       "xxs": {
         "$type": "number",
         "$value": "{Numeric.Spacing.100}",
@@ -1340,6 +1310,50 @@
       "_survey-table-text": {
         "$type": "number",
         "$value": "{Numeric.Spacing.200}",
+        "$description": "",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      }
+    },
+    "Border Width": {
+      "s": {
+        "$type": "number",
+        "$value": "{Numeric.Decoration.25}",
+        "$description": "",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "m": {
+        "$type": "number",
+        "$value": "{Numeric.Decoration.50}",
+        "$description": "",
+        "$extensions": {
+          "com.figma": {
+            "hiddenFromPublishing": false,
+            "scopes": [
+              "ALL_SCOPES"
+            ],
+            "codeSyntax": {}
+          }
+        }
+      },
+      "l": {
+        "$type": "number",
+        "$value": "{Numeric.Decoration.100}",
         "$description": "",
         "$extensions": {
           "com.figma": {
@@ -1787,10 +1801,10 @@
       }
     },
     "Card": {
-      "ToolReasonCard": {
+      "ReviewCard": {
         "width": {
           "$type": "number",
-          "$value": 640,
+          "$value": 312,
           "$description": "",
           "$extensions": {
             "com.figma": {
@@ -1803,10 +1817,10 @@
           }
         }
       },
-      "ReviewCard": {
+      "ToolReasonCard": {
         "width": {
           "$type": "number",
-          "$value": 312,
+          "$value": 640,
           "$description": "",
           "$extensions": {
             "com.figma": {
