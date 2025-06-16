@@ -1104,7 +1104,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1116,7 +1118,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1128,7 +1132,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1140,7 +1146,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1152,7 +1160,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1164,7 +1174,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1176,7 +1188,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1188,7 +1202,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1200,7 +1216,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1212,7 +1230,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1224,7 +1244,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1236,7 +1258,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1248,7 +1272,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1260,7 +1286,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1272,7 +1300,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1284,7 +1314,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1296,7 +1328,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1308,7 +1342,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1320,7 +1356,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1334,7 +1372,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1346,7 +1386,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1358,7 +1400,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1370,7 +1414,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1382,7 +1428,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1394,7 +1442,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1406,7 +1456,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1418,7 +1470,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1430,7 +1484,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1442,7 +1498,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1454,7 +1512,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1466,7 +1526,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1478,7 +1540,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1492,7 +1556,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1504,7 +1570,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1516,7 +1584,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1528,7 +1598,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1540,7 +1612,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1552,7 +1626,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1564,7 +1640,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1576,7 +1654,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1588,7 +1668,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1600,7 +1682,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1612,7 +1696,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1624,7 +1710,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1636,7 +1724,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1648,7 +1738,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1660,7 +1752,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1672,7 +1766,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1684,7 +1780,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1696,7 +1794,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1710,7 +1810,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1722,7 +1824,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1734,7 +1838,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1746,7 +1852,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1758,7 +1866,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1770,7 +1880,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1782,7 +1894,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1794,7 +1908,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1806,7 +1922,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1818,7 +1936,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1830,7 +1950,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1842,7 +1964,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1854,7 +1978,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1868,7 +1994,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1880,7 +2008,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1892,7 +2022,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1904,7 +2036,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1916,7 +2050,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
@@ -1928,7 +2064,9 @@
         "$extensions": {
           "com.figma": {
             "hiddenFromPublishing": false,
-            "scopes": [],
+            "scopes": [
+              "ALL_SCOPES"
+            ],
             "codeSyntax": {}
           }
         }
