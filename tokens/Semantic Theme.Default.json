@@ -298,7 +298,7 @@
         }
       }
     },
-    "\bPositive": {
+    "Positive": {
       "100": {
         "$type": "color",
         "$value": "{Color.Green.100}",
@@ -870,7 +870,7 @@
   "Dim": {
     "100": {
       "$type": "color",
-      "$value": "{Color.Black.500}",
+      "$value": "{Color.Black.300}",
       "$description": "",
       "$extensions": {
         "com.figma": {
@@ -884,7 +884,7 @@
     },
     "200": {
       "$type": "color",
-      "$value": "{Color.Black.700}",
+      "$value": "{Color.Black.500}",
       "$description": "",
       "$extensions": {
         "com.figma": {
@@ -898,7 +898,7 @@
     },
     "300": {
       "$type": "color",
-      "$value": "{Color.Black.900}",
+      "$value": "{Color.Black.700}",
       "$description": "",
       "$extensions": {
         "com.figma": {
