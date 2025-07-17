@@ -870,7 +870,7 @@
   "Dim": {
     "100": {
       "$type": "color",
-      "$value": "{Color.Black.300}",
+      "$value": "{Color.Black.050}",
       "$description": "",
       "$extensions": {
         "com.figma": {
@@ -884,7 +884,7 @@
     },
     "200": {
       "$type": "color",
-      "$value": "{Color.Black.500}",
+      "$value": "{Color.Black.150}",
       "$description": "",
       "$extensions": {
         "com.figma": {
@@ -897,6 +897,34 @@
       }
     },
     "300": {
+      "$type": "color",
+      "$value": "{Color.Black.300}",
+      "$description": "",
+      "$extensions": {
+        "com.figma": {
+          "hiddenFromPublishing": false,
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {}
+        }
+      }
+    },
+    "400": {
+      "$type": "color",
+      "$value": "{Color.Black.500}",
+      "$description": "",
+      "$extensions": {
+        "com.figma": {
+          "hiddenFromPublishing": false,
+          "scopes": [
+            "ALL_SCOPES"
+          ],
+          "codeSyntax": {}
+        }
+      }
+    },
+    "500": {
       "$type": "color",
       "$value": "{Color.Black.700}",
       "$description": "",
