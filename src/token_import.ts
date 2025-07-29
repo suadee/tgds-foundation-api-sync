@@ -341,9 +341,7 @@ export function generatePostVariablesPayload(
         })
       } else if (variable && Object.keys(differences).length > 0) {
         if (variable.remote) {
-          throw new Error(
-            `Cannot update remote variable "${variable.name}" in collection "${collectionName}"`,
-          )
+          return;
         }
 
         postVariablesPayload.variables!.push({
